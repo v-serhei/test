@@ -1,3 +1,4 @@
 init
 create new commit1
 new master changes
+some changes from master
